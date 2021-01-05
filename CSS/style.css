@@ -45,6 +45,7 @@ img{
     width: 30%;
     @media (max width:620px;){width: 100%}
 text-align: center;
+    text-align-last: auto;
     margin-left: 30%;
     margin-right: auto;
     font-family: 'Courier New', Courier, monospace;
